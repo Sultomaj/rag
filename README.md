@@ -27,22 +27,23 @@ This pipeline is built for high speed, strict context adherence, and local embed
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/Clinical-Guideline-RAG-Agent.git](https://github.com/yourusername/Clinical-Guideline-RAG-Agent.git)
-cd Clinical-Guideline-RAG-Agent
+
+```
 
 ### 2. Install Dependecies
 ``` bash
 pip install langchain langchain-classic langchain-community langchain-groq sentence-transformers faiss-cpu pypdf
-
+```
 ### 3. Environment Variables
 Obtain a free API key from Groq and set it in the script or export it to your environment:
 ``` bash
 export GROQ_API_KEY="your_api_key_here"
-
+```
 ### 4. Run the Agent
 Place any text-based PDF (e.g., who_guideline.pdf) in the root directory and execute the pipeline:
 ```
 python3 rag_agent.py
+```
 
 ## 📊 Example Output
 User Query: how many years since first SARS-Cov-2 infections were reported
