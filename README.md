@@ -46,7 +46,7 @@ python3 rag_agent.py
 ```
 
 ## 📊 Example Output
-User Query: how many years since first SARS-Cov-2 infections were reported
-Agent: According to the context, nearly five years have passed since the first SARS-CoV-2 infections were reported.
-User Query: should mothers suspected or confirmed with COVID-19 continue breastfeeding?
-Agent: According to the provided context, mothers with suspected or confirmed COVID-19 should be encouraged to initiate and continue breastfeeding. Based on the available evidence, mothers should be counselled that the benefits of breastfeeding substantially outweigh the potential risks of transmission.
+* **User Query**: how many years since first SARS-Cov-2 infections were reported
+* **Agent**: According to the context, nearly five years have passed since the first SARS-CoV-2 infections were reported.
+* **User Query**: should mothers suspected or confirmed with COVID-19 continue breastfeeding?
+* **Agent**: According to the provided context, mothers with suspected or confirmed COVID-19 should be encouraged to initiate and continue breastfeeding. Based on the available evidence, mothers should be counselled that the benefits of breastfeeding substantially outweigh the potential risks of transmission.
