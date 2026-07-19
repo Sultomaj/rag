@@ -1,0 +1,12 @@
+# Security
+.env
+
+# Vector Database (These are large and should be generated locally by the user)
+faiss_index/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Documents (Optional, but good practice so you don't upload large PDFs)
+*.pdf
