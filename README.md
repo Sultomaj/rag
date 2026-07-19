@@ -27,7 +27,8 @@ This pipeline is built for high speed, strict context adherence, and local embed
 
 ### 1. Clone the repository
 ```bash
-
+git clone https://github.com/sultomaj/rag.git
+cd rag
 ```
 
 ### 2. Install Dependecies
